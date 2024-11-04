@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24e6f209-29bd-4b12-bd8f-8912d9fcc154" name="Changes" comment="Rename exam.html to index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,8 @@
       <workItem from="1730720374882" duration="630000" />
       <workItem from="1730724394770" duration="237000" />
       <workItem from="1730725517765" duration="1284000" />
-      <workItem from="1730726852828" duration="22000" />
+      <workItem from="1730726852828" duration="1086000" />
+      <workItem from="1730728029675" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="Rename exam.html to index.html">
       <option name="closed" value="true" />
@@ -111,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730726455275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rename exam.html to index.html">
+      <option name="closed" value="true" />
+      <created>1730726893138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730726893138</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
