@@ -1,0 +1,164 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n  <meta charset=\"UTF-8\">\r\n  <title>Title</title>\r\n  <link rel=\"stylesheet\" href=\"exam.css\">\r\n\r\n</head>\r\n<body>\r\n\r\n<div class=\"w-1440\">\r\n\r\n  <header>\r\n    <span>logo</span>\r\n  </header>\r\n\r\n  <section class=\"info-link\">\r\n\r\n    <div class=\"text-info\">\r\n      <h2>I’m Mohammad Reza.\r\n        a Frontend developer.</h2>\r\n\r\n      <p>Hello! I'm a Frontend Developer from Spain. I focus on writing clean, efficient code with a strong emphasis on solving problems in an elegant and visually appealing way. My goal is to combine aesthetics and functionality in every project I work on.</p>\r\n\r\n      <div class=\"links-social\">\r\n        <a href=\"https://www.facebook.com/login\"><img src=\"img/1.info-link/link/Group-1.svg\" alt=\"facebook\"></a>\r\n        <a href=\"https://x.com/i/flow/login\"><img src=\"img/1.info-link/link/Group-2.svg\" alt=\"twitter\"></a>\r\n        <a href=\"https://www.instagram.com/accounts/login/\"><img src=\"img/1.info-link/link/Group-3.svg\" alt=\"instagram\"></a>\r\n        <a href=\"https://web.telegram.org/k/\"><img src=\"img/1.info-link/link/Group-4.svg\" alt=\"telegram\"></a>\r\n      </div>\r\n\r\n      <button class=\"send\">Send Request</button>\r\n      <button class=\"download\">Download CV</button>\r\n    </div>\r\n\r\n    <div class=\"photo\">\r\n      <img  src=\"img/1.info-link/photo.png\" alt=\"photo\">\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"experience\">\r\n    <img src=\"img/2.experience/Group_5.svg\" alt=\"img-experience\">\r\n    <div>\r\n      <h1>120+</h1>\r\n      <p>Completed Projects</p>\r\n      <h2>Glad to Help You!</h2>\r\n      <p>As a web developer, I'm very keen on learning new and pioneering technologies, programming languages, and development techniques.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"advantages\">\r\n    <h1>Why Hire Me?</h1>\r\n    <div class=\"adv-scroll\">\r\n      <div>\r\n        <div>\r\n          <img src=\"img/3.advantages/img1.svg\" alt=\"img-advantages\">\r\n        </div>\r\n        <h4>Communicative</h4>\r\n        <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </p>\r\n      </div>\r\n      <div>\r\n        <div>\r\n          <img src=\"img/3.advantages/img2.svg\" alt=\"img-advantages\">\r\n        </div>\r\n        <h4>Professional</h4>\r\n        <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </p>\r\n      </div>\r\n      <div>\r\n        <div>\r\n          <img src=\"img/3.advantages/img3.svg\" alt=\"img-advantages\">\r\n        </div>\r\n        <h4>Collaborative\u200B</h4>\r\n        <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </p>\r\n      </div>\r\n      <div>\r\n        <div>\r\n          <img src=\"img/3.advantages/img4.svg\" alt=\"img-advantages\">\r\n        </div>\r\n        <h4>Client’s Favourite</h4>\r\n        <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </p>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"portfolio\">\r\n    <h1>Portfolio</h1>\r\n    <div>\r\n      <img src=\"img/4.portfolio/Image-1.svg\" alt=\"img-portfolio\">\r\n      <img src=\"img/4.portfolio/Image-2.svg\" alt=\"img-portfolio\">\r\n      <img src=\"img/4.portfolio/Image-3.svg\" alt=\"img-portfolio\">\r\n      <img src=\"img/4.portfolio/Image-4.svg\" alt=\"img-portfolio\">\r\n      <img src=\"img/4.portfolio/Image-5.svg\" alt=\"img-portfolio\">\r\n      <img src=\"img/4.portfolio/Image-6.svg\" alt=\"img-portfolio\">\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"innovations\">\r\n    <h1>I’m Loved By Users And Clients Worldwide</h1>\r\n    <div>\r\n      <div>\r\n        <p class=\"fellow\">One of the best additions to our feedback loop has been the company-wide adoption of Fellow.</p>\r\n      </div>\r\n      <div>\r\n        <p class=\"platform\">It provides an amazing platform for constant conversations and direct feedback between managers and direct reports.</p>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"price\">\r\n    <h1>Price plans</h1>\r\n    <div>\r\n      <div class=\"price-card\">\r\n        <h4>silver</h4>\r\n        <div class=\"grade\">\r\n          <h3>$1.00</h3><span>/hour</span>\r\n        </div>\r\n        <ul class=\"details\">\r\n          <li class=\"check\">UI Design</li>\r\n          <li class=\"check\">web development</li>\r\n          <li class=\"close\">logo design</li>\r\n          <li class=\"close\">seo optimization</li>\r\n          <li class=\"close\">wordPress integration</li>\r\n          <li class=\"close\">5 Websites</li>\r\n          <li class=\"close\">unlimited user</li>\r\n          <li class=\"close\">20 gB bandwith</li>\r\n        </ul>\r\n      </div>\r\n      <div class=\"price-card\">\r\n        <h4>gold</h4>\r\n        <div class=\"grade\">\r\n          <h3>$50.00</h3><span>/hour</span>\r\n        </div>\r\n        <ul class=\"details\">\r\n          <li class=\"check\">UI Design</li>\r\n          <li class=\"check\">web development</li>\r\n          <li class=\"check\">logo design</li>\r\n          <li class=\"check\">seo optimization</li>\r\n          <li class=\"close\">wordPress integration</li>\r\n          <li class=\"close\">5 Websites</li>\r\n          <li class=\"close\">unlimited user</li>\r\n          <li class=\"close\">20 gB bandwith</li>\r\n        </ul>\r\n      </div>\r\n      <div class=\"price-card\">\r\n        <h4>dimond</h4>\r\n        <div class=\"grade\">\r\n          <h3>$80.00</h3><span>/hour</span>\r\n        </div>\r\n        <ul class=\"details\">\r\n          <li class=\"check\">UI Design</li>\r\n          <li class=\"check\">web development</li>\r\n          <li class=\"check\">logo design</li>\r\n          <li class=\"check\">seo optimization</li>\r\n          <li class=\"check\">wordPress integration</li>\r\n          <li class=\"check\">5 Websites</li>\r\n          <li class=\"check\">unlimited user</li>\r\n          <li class=\"check\">20 gB bandwith</li>\r\n        </ul>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"email\">\r\n    <h2>Interested working with me?</h2>\r\n    <button>Email Me</button>\r\n  </section>\r\n\r\n  <section class=\"blog\">\r\n    <h1>Blog</h1>\r\n    <div>\r\n      <div>\r\n        <img src=\"img/6.blog/img-1.svg\" alt=\"img-blog\">\r\n        <h4>How to make web tempates</h4>\r\n        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna </p>\r\n      </div>\r\n      <div>\r\n        <img src=\"img/6.blog/img-2.svg\" alt=\"img-blog\">\r\n        <h4>How to make web tempates</h4>\r\n        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna </p>\r\n      </div>\r\n      <div>\r\n        <img src=\"img/6.blog/img-3.svg\" alt=\"img-blog\">\r\n        <h4>How to make web tempates</h4>\r\n        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna </p>\r\n      </div>\r\n      <div>\r\n        <img src=\"img/6.blog/img-4.svg\" alt=\"img-blog\">\r\n        <h4>How to make web tempates</h4>\r\n        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna </p>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <footer>\r\n    <p>© Copyright 2024</p>\r\n  </footer>\r\n\r\n</div>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision 5141fa4ea7737b2484d933735cf16f542b84ddf4)
++++ b/index.html	(date 1730718349059)
+@@ -6,6 +6,7 @@
+   <link rel="stylesheet" href="exam.css">
+ 
+ </head>
++
+ <body>
+ 
+ <div class="w-1440">
+@@ -196,5 +197,6 @@
+   </footer>
+ 
+ </div>
++
+ </body>
+ </html>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"24e6f209-29bd-4b12-bd8f-8912d9fcc154\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/Exam_HTML-CSS\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/exam.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"okolegko\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/okolegko/Exam_HTML-CSS.git\",\r\n    \"accountId\": \"9c1a79c5-b1e6-45a7-b3d6-453a4a1d3a41\"\r\n  }\r\n}]]></component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2oNKxp99azVl6rsPT6RNHJyqqbB\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.customizations\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"24e6f209-29bd-4b12-bd8f-8912d9fcc154\" name=\"Changes\" comment=\"\" />\r\n      <created>1730704847034</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1730704847034</updated>\r\n      <workItem from=\"1730709526449\" duration=\"4110000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5141fa4ea7737b2484d933735cf16f542b84ddf4)
++++ b/.idea/workspace.xml	(date 1730718355723)
+@@ -4,11 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="24e6f209-29bd-4b12-bd8f-8912d9fcc154" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/Exam_HTML-CSS" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++    <list default="true" id="24e6f209-29bd-4b12-bd8f-8912d9fcc154" name="Changes" comment="Rename exam.html to index.html">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/exam.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Exam_HTML-CSS" beforeDir="false" afterPath="$PROJECT_DIR$/Exam_HTML-CSS" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -16,26 +15,32 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "okolegko"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;okolegko&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/okolegko/Exam_HTML-CSS.git",
+-    "accountId": "9c1a79c5-b1e6-45a7-b3d6-453a4a1d3a41"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/okolegko/Exam_HTML-CSS.git&quot;,
++    &quot;accountId&quot;: &quot;9c1a79c5-b1e6-45a7-b3d6-453a4a1d3a41&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 2
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 2
++}</component>
+   <component name="ProjectId" id="2oNKxp99azVl6rsPT6RNHJyqqbB" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+@@ -44,23 +49,23 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "kotlin-language-version-configured": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.customizations",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -77,8 +82,17 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1730704847034</updated>
+-      <workItem from="1730709526449" duration="4110000" />
++      <workItem from="1730709526449" duration="6490000" />
+     </task>
++    <task id="LOCAL-00001" summary="Rename exam.html to index.html">
++      <option name="closed" value="true" />
++      <created>1730715531152</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1730715531152</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -97,5 +111,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="Rename exam.html to index.html" />
++    <option name="LAST_COMMIT_MESSAGE" value="Rename exam.html to index.html" />
+   </component>
+ </project>
+\ No newline at end of file
